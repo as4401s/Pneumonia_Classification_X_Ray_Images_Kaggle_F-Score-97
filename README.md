@@ -18,3 +18,4 @@ Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 ![](6.jpg)
 
 ### F-score, Recall and Precision
+![](7.jpg)
